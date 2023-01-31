@@ -21,12 +21,12 @@ O projeto foi criado com:
 	
 ## Configuração do ambiente
 
-Para executar o projeto, execute os passaos a seguir:
+Para executar o projeto, execute os passaos a seguir: <br>
 ![imagem1](https://user-images.githubusercontent.com/88403395/215628177-52c1f151-6d28-461e-9f26-fe29fcd5d12d.png)
 
-Depois instale os módulos:
-![imagem2](https://user-images.githubusercontent.com/88403395/215628274-754dcd82-5adb-4e3b-a001-151aef4afc89.png)
+Depois instale os módulos:<br>
+![imagem2](https://user-images.githubusercontent.com/88403395/215628274-754dcd82-5adb-4e3b-a001-151aef4afc89.png) <br>
 ![imagem3](https://user-images.githubusercontent.com/88403395/215628299-04ee5584-7f15-4c6f-9302-89782ebd7f25.png)
 
-Modificação no package.json para iniciar em npm start:
+Modificação no package.json para iniciar em npm start:<br>
 ![imagem4](https://user-images.githubusercontent.com/88403395/215628392-10f95370-0f1c-4ac0-ac7c-73550639853d.png)
